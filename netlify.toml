@@ -4,7 +4,7 @@
   status = 410
   force = true
 [[redirects]]
-  from = "https://calckey.activitypub.cyou/index.html"
-  to = "https://calckey.activitypub.cyou/index_acpb.html"
+  from = "https://calckey.activitypub.cyou"
+  to = "/index_acpb.html"
   status = 301
   force = true

@@ -3,3 +3,8 @@
   to = "/index.html"
   status = 410
   force = true
+[[redirects]]
+  from = "https://calckey.activitypub.cyou/"
+  to = "/index_acpb.html"
+  status = 301
+  force = true
